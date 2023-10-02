@@ -11,9 +11,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:scaleType="centerCrop"
-        android:src="@drawable/wallpaper"
-        tools:layout_editor_absoluteX="0dp"
-        tools:layout_editor_absoluteY="24dp"/>
+        android:src="@drawable/wallpaper" />
 
     <TextView
         android:id="@+id/textView4"
@@ -44,7 +42,7 @@
         android:layout_height="89dp"
         android:layout_marginLeft="30dp"
         android:layout_marginTop="25dp"
-        app:srcCompat="@drawable/logo"
+        app:srcCompat="@drawable/logo_apple"
         />
 
     <Button
