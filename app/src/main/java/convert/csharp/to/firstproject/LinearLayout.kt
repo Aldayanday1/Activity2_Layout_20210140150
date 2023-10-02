@@ -3,9 +3,9 @@ package convert.csharp.to.firstproject
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
-class act_framelayout : AppCompatActivity() {
+class LinearLayout : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_act_framelayout)
+        setContentView(R.layout.activity_linear_layout)
     }
 }
