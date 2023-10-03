@@ -24,7 +24,7 @@
 
     <Button
         android:id="@+id/button7"
-        android:layout_width="160dp"
+        android:layout_width="168dp"
         android:layout_height="52dp"
         android:layout_marginHorizontal="16dp"
         android:layout_weight="1"
@@ -91,9 +91,9 @@
         android:layout_height="match_parent"
         android:layout_weight="1"
         android:gravity="center"
-        android:text="Select Your Starboy "
+        android:text="Select Your Starboy"
         android:layout_marginLeft="8dp"
-        android:layout_marginRight="8dp"/>
+        android:layout_marginRight="6dp"/>
 
     <ImageButton
         android:id="@+id/imageButton5"
